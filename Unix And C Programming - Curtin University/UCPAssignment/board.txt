@@ -1,0 +1,10 @@
+12,12
+D4 E 3 NullByte Sub
+A3 N 3 SSASR Popoto
+C2 W 2 CPN "Rogers" Stev
+A12 W 5 Admiral Greig
+F9 S 4 Arapiles
+L3 E 2 San Maritino
+G10 S 3 Scorpion
+F4 W 4 Admiral Chichagov
+L8 N 2 USS Maine
